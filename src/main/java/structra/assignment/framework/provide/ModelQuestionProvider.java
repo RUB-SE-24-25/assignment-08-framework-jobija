@@ -48,7 +48,6 @@ import java.util.concurrent.CompletableFuture;
 public class ModelQuestionProvider implements QuestionProvider {
 
     public static final String TYPE = "llm";
-
     private final MachineLearningModel model;
     private final TargetProvider targetProvider;
     private final String initialQuestionContext;

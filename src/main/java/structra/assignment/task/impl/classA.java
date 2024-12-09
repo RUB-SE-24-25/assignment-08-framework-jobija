@@ -7,6 +7,6 @@ public class classA implements KeyProvider {
 
     @Override
     public String getApiKey() {
-        return "";
+        return "structra-1343abnc-dGhpcyBpcyBub3Qgb3VyIGFwaSBrZXksIG5pY2UgdHJ5IHRobyA6KQ==";
     }
 }

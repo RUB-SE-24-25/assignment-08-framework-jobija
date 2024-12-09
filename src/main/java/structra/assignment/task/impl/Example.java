@@ -16,7 +16,7 @@ public class Example {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // Add the "Hello World" label to the center of the window
-        JLabel label = new JLabel("Hello World", SwingConstants.CENTER);
+        JLabel label = new JLabel("Hello World", SwingConstants.LEFT);
         frame.getContentPane().add(label);
 
         // Adjust position of the window
